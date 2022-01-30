@@ -20,7 +20,7 @@ Our team was presented a data set for the schools in the area. We used python an
   - **Scores by School Type** We sorted each school into shool Types. The section Charter type contained Thomas High School. The set of data associated with averages and scores will all update as a result of the 9th grade data set removal. 
 ### ![District Scores & Percentages by School Type](https://github.com/ScottyMacCVC/School_District_Analysis/blob/main/Resources/District%20Scores%20%26%20Percentages%20by%20School%20Type.JPG) 
 
-
+---
 ### Four Changes for the School District Analysis
 - **1** Removed 9th grade data from Thomas High School 
 - **2** Using Dataframes, we built a DF without 9th grade data from Thomas High School and combined it with the existing data 
