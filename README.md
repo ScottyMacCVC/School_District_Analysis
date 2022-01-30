@@ -11,7 +11,7 @@ Our team was presented a data set for the schools in the area. We used python an
  - We need to explain how replacing the ninth-grade scores affect the following:
    - **Math and reading scores by grade**
 ### ![Math and reading scores by grade](https://github.com/ScottyMacCVC/School_District_Analysis/blob/main/Resources/Math%20and%20reading%20scores%20by%20grade.JPG)
-  - We isolated the 9th grade at Thomas High School. Math and reading scores for the 10th to the 12th grade will be unaffected by the change. But we will see a correction for the 9th grade. The averages for the 9th grade in the district and all schools will need to be updated.  
+  - The majority of our information will remain the same. We isolated the 9th grade at Thomas High School and replaced them with NaN or Not a Number. Math and reading scores for the 10th to the 12th grade will be unaffected by the change. But we will see a correction for the 9th grade, the averages for the 9th grade in the district and all schools will be updated.  
   - **Scores by school spending**
 ### ![District Scores & Percentages by Spending Ranges](https://github.com/ScottyMacCVC/School_District_Analysis/blob/main/Resources/District%20Scores%20%26%20Percentages%20by%20Spending%20Ranges.JPG)
   - **Scores by school size**
