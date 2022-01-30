@@ -22,10 +22,10 @@ Our team was presented a data set for the schools in the area. We used python an
 
 
 ### Four Changes for the School District Analysis
-**1** Removed 9th grade data from Thomas High School 
-**2** Using Dataframes, we built a DF without 9th grade data from Thomas High School and combined it with the existing data 
-**3** Using the new data, we presented the data in several ways such as by math/reading, by grade, spending ranges, school size, and type. 
-**4** We recalculated the new data from the Dataframe and added it to the summaries
+- **1** Removed 9th grade data from Thomas High School 
+- **2** Using Dataframes, we built a DF without 9th grade data from Thomas High School and combined it with the existing data 
+- **3** Using the new data, we presented the data in several ways such as by math/reading, by grade, spending ranges, school size, and type. 
+- **4** We recalculated the new data from the Dataframe and added it to the summaries
 
 
 ## Resources
