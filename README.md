@@ -7,17 +7,17 @@ Our team was presented a data set for the schools in the area. We used python an
 ## Results and Thomas High School's 9th Grade
  - First we will discuss how the district summary was affected. The district summary needs to be updated because we have eliminated a set of grades. Thomas High School's 9th grade data was inconsistent and may be due to academic dishonestly. Because the data was asked to be altered, our summary statistics will change. 
  - Secondly, we will see an update to the school summary. The school summary will need to be updated for the eliminated set of grades. All percentiles & averages will shift. 
- - Last, replacing the ninth graders’ math and reading scores affected Thomas High School’s performance relative to the other schools greatly. Once we removed the 9th grade from the overall school calculation, we see the THS in the top 5 schools of the district. 
+ - Lastly, replacing the ninth graders’ math and reading scores affected Thomas High School’s performance relative to the other schools greatly. Once we removed the 9th grade from the overall school calculation, we see the THS in the top 5 schools of the district. 
  - We need to explain how replacing the ninth-grade scores affect the following:
    - **Math and reading scores by grade**
-### ![School_District_Analysis](https://github.com/ScottyMacCVC/Election_Analysis/blob/main/Election%20Results.jpg)
-  - Math and reading scores for the 10th to the 12th grade will be unaffected by the change. But we will see a correction for the 9th grade. The averages for the 9th grade in the district and all schools will need to be updated.  
+### ![Math and reading scores by grade](https://github.com/ScottyMacCVC/School_District_Analysis/blob/main/Resources/Math%20and%20reading%20scores%20by%20grade.JPG)
+  - We isolated the 9th grade at Thomas High School. Math and reading scores for the 10th to the 12th grade will be unaffected by the change. But we will see a correction for the 9th grade. The averages for the 9th grade in the district and all schools will need to be updated.  
   - **Scores by school spending**
-### ![School_District_Analysis](https://github.com/ScottyMacCVC/School_District_Analysis/blob/main/Resources/District%20Scores%20%26%20Percentages%20by%20Spending%20Ranges.JPG)
+### ![District Scores & Percentages by Spending Ranges](https://github.com/ScottyMacCVC/School_District_Analysis/blob/main/Resources/District%20Scores%20%26%20Percentages%20by%20Spending%20Ranges.JPG)
   - **Scores by school size**
-### ![School_District_Analysis](https://github.com/ScottyMacCVC/School_District_Analysis/blob/main/Resources/District%20Scores%20%26%20Percentages%20by%20School%20Size.JPG) 
+### ![District Scores & Percentages by School Size](https://github.com/ScottyMacCVC/School_District_Analysis/blob/main/Resources/District%20Scores%20%26%20Percentages%20by%20School%20Size.JPG) 
   - **Scores by school type**
-### ![School_District_Analysis](https://github.com/ScottyMacCVC/School_District_Analysis/blob/main/Resources/District%20Scores%20%26%20Percentages%20by%20School%20Type.JPG) 
+### ![District Scores & Percentages by School Type](https://github.com/ScottyMacCVC/School_District_Analysis/blob/main/Resources/District%20Scores%20%26%20Percentages%20by%20School%20Type.JPG) 
 
 
 - **Four Changes for the School District Analysis **
