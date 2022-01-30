@@ -15,14 +15,18 @@ Our team was presented a data set for the schools in the area. We used python an
 ### ![Math and reading scores by grade](https://github.com/ScottyMacCVC/School_District_Analysis/blob/main/Resources/Math%20and%20reading%20scores%20by%20grade.JPG)
   - **Scores by School Spending** We sorted each school into spending buckets. The section $630-$644 contained Thomas High School. The set of data associated with averages and scores will all update as a result of the 9th grade data set removal. 
 ### ![District Scores & Percentages by Spending Ranges](https://github.com/ScottyMacCVC/School_District_Analysis/blob/main/Resources/District%20Scores%20%26%20Percentages%20by%20Spending%20Ranges.JPG)
-  - **Scores by School Size**
+  - **Scores by School Size** We sorted each school into shool sizes. The section Medium contained Thomas High School. The set of data associated with averages and scores will all update as a result of the 9th grade data set removal. 
 ### ![District Scores & Percentages by School Size](https://github.com/ScottyMacCVC/School_District_Analysis/blob/main/Resources/District%20Scores%20%26%20Percentages%20by%20School%20Size.JPG) 
-  - **Scores by School Type**
+  - **Scores by School Type** We sorted each school into shool Types. The section Charter type contained Thomas High School. The set of data associated with averages and scores will all update as a result of the 9th grade data set removal. 
 ### ![District Scores & Percentages by School Type](https://github.com/ScottyMacCVC/School_District_Analysis/blob/main/Resources/District%20Scores%20%26%20Percentages%20by%20School%20Type.JPG) 
 
 
 - **Four Changes for the School District Analysis **
--- Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+-- **1** Removed 9th grade data from Thomas High School 
+-- **2** Using Dataframes, we built a DF without 9th grade data from Thomas High School and combined it with the existing data 
+-- **3** Using the new data, we presented the data in several ways such as by math/reading, by grade, spending ranges, school size, and type. 
+-- **4** We recalculated the new data from the Dataframe and added it to the summaries
+
 
 ## Resources
 - Data Source: schools_complete.csv
